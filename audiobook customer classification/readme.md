@@ -7,6 +7,8 @@
 
 ## Audiobook App Users Classification Model
 
+<img src = 'https://github.com/StMorris/web_scraping/blob/main/rotten_tomatoes_140_action_movies/resized_imagee.png'>
+
 #### We want to create a machine learning algorithm based on available data, that can predict if a user will buy again from the Audiobook company.
 
 #### The main idea is that if a user has a low probability of coming back, there is no reason to spend any money on advertizing to him/her. 
