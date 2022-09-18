@@ -5,18 +5,18 @@
 
 
 
-## Audiobook Customer Classification Model
+## Audiobook App Users Classification Model
 
-#### We want to create a machine learning algorithm based on our available data that can predict if a customer will buy again from the Audiobook company.
+#### We want to create a machine learning algorithm based on available data, that can predict if a user will buy again from the Audiobook company.
 
-#### The main idea is that if a customer has a low probability of coming back, there is no reason to spend any money on advertizing to him/her. 
-#### If we can focus our efforts ONLY on customers that are likely to convert again, we can make great savings, increase sales and profitability. Moreover, this model can identify the most important metrics for a customer to come back again.
+#### The main idea is that if a user has a low probability of coming back, there is no reason to spend any money on advertizing to him/her. 
+#### If we can focus our efforts ONLY on users that are likely to convert again, we can make great savings, increase sales and profitability. Moreover, this model can identify the most important metrics for a customer to come back again.
 
-####  Identifying new customers creates value and growth opportunities.
+####  Identifying new users creates value and growth opportunities.
 
-####  So, in fact, we are predicting if: based on the last 2 years of activity and engagement, a customer will convert in the next 6 months. 6 months sounds like a reasonable time. If they don't convert after 6 months, chances are they've gone to a competitor or didn't like the Audiobook way of digesting information.
+####  So, in fact, we are predicting if: based on the last 2 years of activity and engagement, a user will convert in the next 6 months. 6 months sounds like a reasonable time. If they don't convert after 6 months, chances are they've gone to a competitor or didn't like the Audiobook way of digesting information.
 
-#### The task is simple: create a machine learning algorithm, which is able to predict if a customer will buy again.
+#### The task is simple: create a machine learning algorithm, which is able to predict if a user will buy again.
 This is a classification problem with two classes: won't buy and will buy, represented by 0s and 1s.
 
 
